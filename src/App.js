@@ -9,7 +9,7 @@ import About from "./contrainers/About";
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className="App">
         <Router>
           <Route path="/" exact component={Home} />
           <Route path="/travels" exact component={Travels} />
