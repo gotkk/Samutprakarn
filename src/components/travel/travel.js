@@ -6,7 +6,7 @@ class travel extends React.Component {
             <div className="mt-3">
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/travel/1.jpg" className="img-fluid" />
+                        <img src="https://cms.dmpcdn.com/travel/2018/06/11/64628cf2-cbfb-4451-b9d4-69cc60ea43ab.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>สถานตากอากาศบางปู</h2>
@@ -16,7 +16,7 @@ class travel extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/travel/2.jpg" className="img-fluid" />
+                        <img src="https://cms.dmpcdn.com/travel/2018/06/11/b5b99df7-de09-494e-a88a-22dc055430ad.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>พิพิธภัณฑ์ช้างเอราวัณ</h2>
@@ -26,7 +26,7 @@ class travel extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/travel/3.jpg" className="img-fluid" />
+                        <img src="https://cms.dmpcdn.com/travel/2018/06/11/1a4dae97-4cb3-4332-8f21-672ecbd655f8.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>เมืองโบราณ</h2>

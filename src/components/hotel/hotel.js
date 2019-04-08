@@ -6,7 +6,7 @@ class hotel extends React.Component {
             <div className="mt-3">
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/hotel/1.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/hotel/1.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>โรงแรมทับทิมสยาม สุวรรณภูมิ</h2>
@@ -18,7 +18,7 @@ class hotel extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/hotel/2.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/hotel/2.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>S115 Residence</h2>
@@ -31,7 +31,7 @@ class hotel extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/hotel/3.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/hotel/3.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>เตียกุ่ยฮวด@ตึกชัย</h2>
@@ -43,7 +43,7 @@ class hotel extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/hotel/4.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/hotel/4.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>Villa Volpi Bed and Breakfast</h2>
