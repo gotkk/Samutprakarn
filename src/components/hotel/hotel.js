@@ -55,7 +55,7 @@ class hotel extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/hotel/5.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/hotel/5.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>Srivaree Pavilion Hotel and Training Center</h2>

@@ -6,7 +6,7 @@ class restaurant extends React.Component {
             <div className="mt-3">
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/restaurant/1.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/restaurant/1.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>ขอบฟ้าลาตะวัน สมุทรปราการ</h2>
@@ -16,7 +16,7 @@ class restaurant extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/restaurant/2.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/restaurant/2.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>ส้มตำดนตรี</h2>
@@ -26,7 +26,7 @@ class restaurant extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/restaurant/3.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/restaurant/3.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>ระเบียงทะเล สาขา บางปู</h2>
@@ -36,7 +36,7 @@ class restaurant extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/restaurant/4.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/restaurant/4.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>เกาะยอ สมุทรปราการ</h2>
@@ -46,7 +46,7 @@ class restaurant extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/restaurant/5.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/restaurant/5.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>ตำตำแซ่บคาเฟ่ สุขุมวิท 107</h2>
@@ -56,7 +56,7 @@ class restaurant extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/restaurant/6.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/restaurant/6.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>The Art Of Food แบริ่ง 31</h2>
@@ -66,7 +66,7 @@ class restaurant extends React.Component {
                 <hr />
                 <div className="row">
                     <div className="col-md-6">
-                        <img src="/images/restaurant/7.jpg" className="img-fluid" />
+                        <img src="/Samutprakarn/images/restaurant/7.jpg" className="img-fluid" />
                     </div>
                     <div className="col-md-6">
                         <h2>Steak Sure Restaurant สมุทรปราการ</h2>
