@@ -1,7 +1,8 @@
 import React from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import Restaurant from "../components/restaurant/restaurant"
+// import Restaurant from "../components/restaurant/restaurant"
+import RestaurantList from "../components/restaurant/restaurantList";
 
 class Restaurants extends React.Component {
     render() {
@@ -11,7 +12,7 @@ class Restaurants extends React.Component {
                     <Header />
                 </div>
                 <div className="container mt-2 pt-5">
-                    <Restaurant />
+                    <RestaurantList />
                 </div>
                 <Footer />
             </div>

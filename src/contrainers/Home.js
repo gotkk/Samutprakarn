@@ -6,6 +6,9 @@ import Intro from "../components/home/Intro";
 import Detail from "../components/home/Detail";
 
 class Home extends React.Component {
+    componentDidUpdate() {
+        window.scrollTo(0, 0);
+    }
     render() {
         return (
             <div>

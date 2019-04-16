@@ -1,7 +1,8 @@
 import React from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import Travel from "../components/travel/travel";
+// import Travel from "../components/travel/travel";
+import TravelList from "../components/travel/travelList";
 
 class Travels extends React.Component {
     render() {
@@ -11,7 +12,7 @@ class Travels extends React.Component {
                     <Header />
                 </div>
                 <div className="container mt-2 pt-5">
-                    <Travel />
+                    <TravelList />
                 </div>
                 <Footer />
             </div>
