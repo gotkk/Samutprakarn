@@ -1,4 +1,5 @@
 import React from "react";
+import L from "./hotelList";
 
 class hotel extends React.Component {
     render() {
