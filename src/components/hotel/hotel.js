@@ -1,9 +1,4 @@
 import React from "react";
-<<<<<<< HEAD
-import L from "./hotelList";
-=======
-import I from "./hotelItem";
->>>>>>> 56788399a783add3c029d14625aabde39a1e4e85
 
 class hotel extends React.Component {
     render() {
