@@ -1,4 +1,5 @@
 import React from "react";
+import I from "./hotelItem";
 
 class hotel extends React.Component {
     render() {
