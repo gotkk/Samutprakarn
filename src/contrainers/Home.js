@@ -15,7 +15,7 @@ class Home extends React.Component {
                 <div>
                     <Header />
                 </div>
-                <div className="mt-2 pt-5">
+                <div className="mt-2 pt-5" style={{height: "100vh"}}>
                     <Slides />
                 </div>
                 <div className="container mt-5 mb-5">
