@@ -16,12 +16,12 @@ class Slides extends React.Component {
                             <li data-target="#carouselExampleCaptions" data-slide-to="6"></li>
                             <li data-target="#carouselExampleCaptions" data-slide-to="7"></li>
                         </ol>
-                        <div className="carousel-inner">
+                        <div className="carousel-inner shadowSlide">
                             <div className="carousel-item active">
                                 <div className="fill">
                                     <img src="/Samutprakarn/images/slides/1.png" className="d-block  " alt="..." />
                                 </div>
-                                <div className="carousel-caption d-none d-md-block">
+                                <div className="carousel-caption d-none d-md-block ">
                                     <h5>คำขวัญจังหวัดสมุทรปราการ</h5>
                                     <p>ป้อมยุทธนาวี</p>
                                 </div>

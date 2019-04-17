@@ -12,6 +12,10 @@ h1, h2, h3, h4, h5, h6{
   font-family: 'CSChatThaiUI';
 }
 
+.shadowSlide {
+  text-shadow:  0 0 3px rgb(0, 0, 0), 0 0 5px rgb(0, 0, 0);
+}
+
 .title{
   font-family: 'CSChatThaiUI';
 }
