@@ -6,7 +6,13 @@ class restaurantList extends React.Component {
     render() {
         return (
             <div className="mt-3">
-                {DBRestaurants.restaurants.map((restaurant) => RestaurantItem(restaurant))}
+                {
+                    DBRestaurants.restaurants.map((restaurant, index) => {
+                        return(
+                            <RestaurantItem key={index} dataRestaurant={restaurant} />
+                        );
+                    })
+                }
             </div>
         );
     }

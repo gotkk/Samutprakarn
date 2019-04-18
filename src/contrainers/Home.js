@@ -3,7 +3,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Slides from "../components/home/Slides";
 import Intro from "../components/home/Intro";
-import Detail from "../components/home/Detail";
+import DetailCard from "../components/home/DetailCard";
 
 class Home extends React.Component {
     componentDidUpdate() {
@@ -20,7 +20,7 @@ class Home extends React.Component {
                 </div>
                 <div className="container mt-5 mb-5">
                     <Intro />
-                    <Detail />
+                    <DetailCard />
                 </div>
                 <Footer />
             </div>

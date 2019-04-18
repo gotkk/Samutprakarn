@@ -1,12 +1,12 @@
 import React from "react";
 
-const hotailItem = (hotel) => {
-    const { id, name, img, detail1, detail2, detail3 } = hotel
+const hotailItem = (props) => {
+    const { id, name, img, detail1, detail2, detail3 } = props.dataHotel
     return (
         <div>
             <div className="row">
                 <div className="col-md-6">
-                    <img src={img} className="img-fluid" />
+                    <img src={img} className="img-fluid" alt={"รูปโรงแรมที่ "+id}/>
                 </div>
                 <div className="col-md-6">
                     <h2>{name}</h2>

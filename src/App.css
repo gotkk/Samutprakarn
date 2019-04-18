@@ -1,11 +1,11 @@
 @font-face{
   font-family: 'CSChatThai';
-  src: url('/font/CSChatThai.ttf');
+  src: url('/Samutprakarn/font/CSChatThai.ttf');
 }
 
 @font-face{
   font-family: "CSChatThaiUI";
-  src: url('/font/CSChatThaiUI.ttf');
+  src: url('/Samutprakarn/font/CSChatThaiUI.ttf');
 }
 
 h1, h2, h3, h4, h5, h6{

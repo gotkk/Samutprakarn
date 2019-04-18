@@ -8,15 +8,15 @@ const references = () => {
             </div>
             <hr />
             <div>
-                <a href="https://th.wikipedia.org/wiki/จังหวัดสมุทรปราการ" target="_blank">https://th.wikipedia.org/wiki/จังหวัดสมุทรปราการ</a>
+                <a href="https://th.wikipedia.org/wiki/จังหวัดสมุทรปราการ" target="_blank" rel="noopener noreferrer">https://th.wikipedia.org/wiki/จังหวัดสมุทรปราการ</a>
             </div>
             <br />
             <div>
-                <a href="http://travel.trueid.net/detail/0WQdDEByjZq" target="_blank">http://travel.trueid.net/detail/0WQdDEByjZq</a>
+                <a href="http://travel.trueid.net/detail/0WQdDEByjZq" target="_blank" rel="noopener noreferrer">http://travel.trueid.net/detail/0WQdDEByjZq</a>
             </div>
             <br />
             <div>
-                <a href="https://www.edtguide.com/article/430085/ร้านอาหาร-สมุทรปราการ" target="_blank">https://www.edtguide.com/article/430085/ร้านอาหาร-สมุทรปราการ</a>
+                <a href="https://www.edtguide.com/article/430085/ร้านอาหาร-สมุทรปราการ" target="_blank" rel="noopener noreferrer">https://www.edtguide.com/article/430085/ร้านอาหาร-สมุทรปราการ</a>
             </div>
         </div>
     );

@@ -9,7 +9,7 @@ const aboutMe = () => {
             <hr />
             <div>
                 <span>My facebook : </span>
-                <a href="https://web.facebook.com/bunmak.kangrang" target="_blank">Bunmak Kangrang</a>
+                <a href="https://web.facebook.com/bunmak.kangrang" target="_blank" rel="noopener noreferrer">Bunmak Kangrang</a>
             </div>
         </div>
     );

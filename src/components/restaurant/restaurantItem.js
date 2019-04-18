@@ -1,12 +1,12 @@
 import React from "react";
 
-const restaurantItem = (restaurant) => {
-    const { id, name, img, detail } = restaurant
+const restaurantItem = (props) => {
+    const { id, name, img, detail } = props.dataRestaurant
     return (
         <div>
             <div className="row">
                 <div className="col-md-6">
-                    <img src={img} className="img-fluid" />
+                    <img src={img} className="img-fluid" alt={"รูปร้านอาหารที่ "+id}/>
                 </div>
                 <div className="col-md-6">
                     <h2>{name}</h2>

@@ -6,7 +6,13 @@ class hotelList extends React.Component {
     render() {
         return (
             <div className="mt-3">
-                {DBHotels.hotels.map((data) => HotelItem(data))}
+                {
+                    DBHotels.hotels.map((hotel, index) => {
+                        return (
+                            <HotelItem key={index} dataHotel={hotel} />
+                        );
+                    })
+                }
             </div>
         );
     }
